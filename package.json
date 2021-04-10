@@ -1,0 +1,17 @@
+{
+  "name": "json-schema-validator-typescript",
+  "version": "1.0.0",
+  "description": "A tool for validating the structure of JSON data using a JSON schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.37"
+  }
+}
